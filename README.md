@@ -1,4 +1,4 @@
-##AES-256 in C (No External Libraries)
+## AES-256 in C (No External Libraries)
 This is a from-scratch implementation of the AES-256 encryption algorithm in the C programming language, including user input support, and both encryption and decryption routines.
 No external cryptographic libraries are used.
 ##PURPOSE
@@ -8,7 +8,7 @@ This code is intended for educational purposes and cryptographic learning.
 This project is for educational use only.
 Do not use this implementation in production or security-critical systems.
 For real-world applications, use vetted cryptographic libraries such as OpenSSL or libsodium.
-##Usage
+## Usage
 gcc -o aes256solocif aes256solocif.c
 gcc -o aes256dec aes256dec.c
 then 
