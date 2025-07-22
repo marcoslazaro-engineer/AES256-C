@@ -14,4 +14,4 @@ gcc -o aes256dec aes256dec.c
 then 
 ./aes256dec and ./aes256solocif
 ## Author
-Developed by [Marcos Lazaro Diaz ] as part of a personal project on learning and implementing cryptographic algorithms in C.
+Developed by Marcos Lazaro Diaz  as part of a personal project on learning and implementing cryptographic algorithms in C.
