@@ -1,4 +1,4 @@
-#AES-256 in C (No External Libraries)
+##AES-256 in C (No External Libraries)
 This is a from-scratch implementation of the AES-256 encryption algorithm in the C programming language, including user input support, and both encryption and decryption routines.
 No external cryptographic libraries are used.
 ##PURPOSE
