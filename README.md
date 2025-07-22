@@ -1,7 +1,7 @@
 ## AES-256 in C (No External Libraries)
 This is a from-scratch implementation of the AES-256 encryption algorithm in the C programming language, including user input support, and both encryption and decryption routines.
 No external cryptographic libraries are used.
-##PURPOSE
+## PURPOSE
 The goal of this project is to gain a deep understanding of how AES-256 works by building it manually, without relying on third-party libraries like OpenSSL.
 This code is intended for educational purposes and cryptographic learning.
 ## Disclaimer
